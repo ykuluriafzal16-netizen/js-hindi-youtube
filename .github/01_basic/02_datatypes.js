@@ -2,11 +2,13 @@
 
 //alert (3+3) //we are using node js not browser
 /*console.log(3 + 3);// code readability should be high
-console.log("Afzal");
+console.log("Afzal");*/
 
 let name = "Afzal"
 let age = 18
-let isLoggedIn = false
+let isLoggedIn = true
+
+
 
 console.table([name, age, isLoggedIn])
 
@@ -18,7 +20,10 @@ console.table([name, age, isLoggedIn])
 //undefined
 //symbol => unique
 
-//object*/
+//object
 
-console.log(typeof undefined);
+console.log(typeof String);
+
+
+
 
